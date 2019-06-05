@@ -1,5 +1,7 @@
 *.LNK
 *.LCK
 *.gnucash
+*.ofx
+
 gnucash_nboutin
 template

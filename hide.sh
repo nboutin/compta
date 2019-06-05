@@ -12,3 +12,4 @@ rm $dest
 
 7z -mhc=on -mhe=on -p"$1" a $dest gnucash_nboutin
 7z -mhc=on -mhe=on -p"$1" a $dest template
+7z -mhc=on -mhe=on -p"$1" a $dest ofx
